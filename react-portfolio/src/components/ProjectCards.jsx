@@ -2,21 +2,24 @@ import styles from "../styles/ProjectCards.module.css";
 
 export default function ProjectCard(props) {
   return (
-    <div className={`card ${styles.cardCustom}`} style={{ width: "18rem" }}>
+    <div className={`card ${styles.cardCustom}`} style={{ width: "40rem" }}>
       <img
         src={props.img}
         className="card-img-top"
-        height="160"
+        height="140"
         alt={props.name}
       />
       <div className="card-body">
-        <h2 className="card-title text-center text-light">{props.name}</h2>
-        <h5 className="card-title text-center text-light">{props.tech}</h5>
+        <h3 className="card-title text-center text-light">{props.name}</h3>
+        <br></br>
+        <h6 className="card-title text-center text-light">{props.tech}</h6>
       </div>
       {props.repo ? (
         <a href={props.repo} >
           <i>
-            Repo
+          <button className="btn btn-custom btn-primary">
+        Repo
+        </button>
           </i>
         </a>
       ) : (
@@ -26,7 +29,9 @@ export default function ProjectCard(props) {
       )}
       <a href={props.deployed} >
         <i>
-          Live
+        <button className="btn btn-custom btn-primary">
+        Live
+        </button>
         </i>
       </a>
     </div>
