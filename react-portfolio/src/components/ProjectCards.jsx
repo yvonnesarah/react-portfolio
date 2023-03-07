@@ -27,6 +27,7 @@ export default function ProjectCard(props) {
           Repo 
         </p>
       )}
+      <hr></hr>
       <a href={props.deployed} >
         <i>
         <button className="btn btn-custom btn-primary">
