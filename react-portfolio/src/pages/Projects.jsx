@@ -8,7 +8,7 @@ export default function Projects() {
   return (
     <Layout>
       <div className="container-fluid">
-        <h1 className = "mb-4">Projects</h1>
+      <h1 className="text-center my-5">Projects</h1>
         <div class="row">
           {projects.map((project) => {
             return (
