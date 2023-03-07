@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "tech": "HTML/CSS/Git/JavaScript",
+    "name": "Prework Study Guide",
+    "repo": "https://github.com/yvonnesarah/prework-study-guide",
+    "deployed": "https://yvonnesarah.github.io/prework-study-guide/",
+    "img": "./images/prework-study-guide-project.jpg"
+  },
+  {
+    "id": 2,
+    "tech": "HTML/CSS",
+    "name": "Code Refactor",
+    "repo": "https://github.com/yvonnesarah/Code-Refactor",
+    "deployed": "https://yvonnesarah.github.io/Code-Refactor/",
+    "img": "./images/code-refactor-project.jpg"
+  },
+  {
+    "id": 3,
+    "tech": "HTML/JavaScript",
+    "name": "Console Finances",
+    "repo": "https://github.com/yvonnesarah/Console-Finances",
+    "deployed": "https://yvonnesarah.github.io/Console-Finances/",
+    "img": "./images/console-finances-project.jpg"
+  },
+  {
+    "id": 4,
+    "tech": "HTML/CSS/JavaScript",
+    "name": "Password Generator",
+    "repo": "https://github.com/yvonnesarah/Password-Generator",
+    "deployed": "https://yvonnesarah.github.io/Password-Generator/",
+    "img": "./images/password-generator-project.jpg"
+  },
+  {
+    "id": 5,
+    "name": "JavaScript Quiz",
+    "tech": "HTML/CSS/JavaScript/Bootstrap4/Local Storage",
+    "repo": "https://github.com/yvonnesarah/JavaScript-Quiz",
+    "deployed": "https://yvonnesarah.github.io/JavaScript-Quiz/",
+    "img": "./images/javascript-quiz-project.jpg"
+  },
+  {
+    "id": 6,
+    "tech": "HTML/CSS/JavaScript/Bootstrap4/JQuery/Moment.js/fontawesome",
+    "name": "Daily Planner App",
+    "repo": "https://github.com/yvonnesarah/Daily-Planner-App",
+    "deployed": "https://yvonnesarah.github.io/Daily-Planner-App/",
+    "img": "./images/daily-planner-app-project.jpg"
+  },
+  {
+    "id": 7,
+    "tech": "HTML/CSS/JavaScript/JQuery/Bootstrap4/Moment.js/server-side API- OpenWeather/Local Storage",
+    "name": "Weather Dashboard",
+    "repo": "https://github.com/yvonnesarah/Weather-Dashboard",
+    "deployed": "https://yvonnesarah.github.io/Weather-Dashboard/",
+    "img": "./images/weather-dashboard-project.jpg"
+  },
+  {
+    "id": 8,
+    "tech": "HTML/CSS/JavaScript/JQuery/Bootstrap4/Media queries/APIs/Local Storage",
+    "name": "Quiz Maker",
+    "repo": "https://github.com/yvonnesarah/Quiz-maker",
+    "deployed": "https://yvonnesarah.github.io/Quiz-maker/",
+    "img": "./images/quiz-maker-project.jpg"
+  }
+]
