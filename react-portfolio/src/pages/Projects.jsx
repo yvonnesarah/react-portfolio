@@ -17,6 +17,7 @@ export default function Projects() {
                   deployed={project.deployed}
                   repo={project.repo}
                   tech={project.tech}
+                  descr={project.descr}
                   name={project.name}
                   img={project.img}
                 />
