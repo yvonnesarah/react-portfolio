@@ -13,6 +13,8 @@ export default function ProjectCard(props) {
         <h3 className="card-title text-center text-light">{props.name}</h3>
         <br></br>
         <h6 className="card-title text-center text-light">{props.tech}</h6>
+        <br></br>
+        <h6 className="card-title text-center text-light">{props.descr}</h6>
       </div>
       {props.repo ? (
         <a href={props.repo} >
