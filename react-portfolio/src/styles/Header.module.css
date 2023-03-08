@@ -1,0 +1,46 @@
+.navContainer {
+    height: 100px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    position: relative;
+  }
+  
+  .navMenu {
+    list-style: none;
+    margin: 0 auto;
+    top: 100px;
+    width: 0;
+    height: 0;
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+
+  @media (min-width: 800px) {
+    .navMenu {
+      display: flex;
+      left: 0;
+      transform: translate(0, 0);
+      width: 100%;
+      top: 0;
+      position: relative;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-end;
+      height: auto;
+      background-color: transparent;
+    }
+  
+    .navMenu li {
+      margin-left: 10px;
+      padding: 10px;
+      color: white ;
+      font-size: 20pt;
+      justify-content: flex-end;
+    }
+  }
