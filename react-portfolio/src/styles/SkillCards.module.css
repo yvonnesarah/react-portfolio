@@ -1,0 +1,23 @@
+.cardCustom {
+    border-radius: 15px;
+    background: linear-gradient(145deg, #FF0000, #FF0000);
+    overflow: hidden;
+    padding: 10px;
+    width: 30rem;
+    margin: 5px;
+  }
+  
+  @media (min-width: 800px) {
+    .cardCustom {
+      border-radius: 15px;
+      background: linear-gradient(145deg, #FF0000, #FF0000);
+      overflow: hidden;
+      padding: 10px;
+      width: 30rem;
+      margin: 5px;
+    }
+  }
+    
+    
+  
+  
