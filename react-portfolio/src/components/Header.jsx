@@ -3,8 +3,8 @@ import {Link} from "react-router-dom";
 import {useState} from "react";
 
 export default function Header() {
-  const [click, setClick] = useState(true);
-  const handleClick = () => setClick(!click);
+  const [click] = useState(true);
+ 
 
   return (
     <div className={styles.navContainer}>
@@ -23,17 +23,8 @@ export default function Header() {
           <li>Contact</li>
         </Link>
       </ul>
-
-      {/* WRAPPER MENU */}
-      <div
-        className={
-          click
-            ? `${styles.wrapperMenu}`
-            : `${styles.wrapperMenu}`
-        }
-        onClick={handleClick}
-      >
       </div>
-    </div>
+  
   );
 }
+
