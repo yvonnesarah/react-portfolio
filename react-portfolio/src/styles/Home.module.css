@@ -1,0 +1,12 @@
+.face {
+    float: none;
+    width: 200px;
+    height: 200px;
+}
+@media (min-width: 800px) {
+    .face {
+        float: none;
+        width: 200px;
+        height: 200px;
+    }
+}
