@@ -23,20 +23,19 @@ export default function ProjectCard(props) {
         Repo
         </button>
           </i>
-        </a>
-      ) : (
-        <p>
-          Repo 
-        </p>
-      )}
-      <hr></hr>
-      <a href={props.deployed} >
+          <a href={props.deployed} >
         <i>
         <button className="btn btn-custom btn-primary">
         Live
         </button>
         </i>
       </a>
+        </a>
+      ) : (
+        <p>
+          Repo 
+        </p>
+      )}
     </div>
   );
 }
