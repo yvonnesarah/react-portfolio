@@ -13,7 +13,7 @@ export default function Header() {
           click ? styles.navMenu : `${styles.navMenu} ${styles.active}`
         }
       >
-        <Link to="/">
+        <Link to="/home">
           <li>Home</li>
         </Link>
         <Link to="/projects">
