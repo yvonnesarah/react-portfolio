@@ -2,72 +2,72 @@
     {
       "id": 1,
       "skills": "HTML",
-      "img": "./images/html.jpg"
+      "img": "/images/html.jpg"
     },
     {
         "id": 2,
         "skills": "CSS",
-        "img": "./images/css.jpg"
+        "img": "/images/css.jpg"
       },
       {
         "id": 3,
         "skills": "JavaScript",
-        "img": "./images/javascript.jpg"
+        "img": "/images/javascript.jpg"
       },
       {
         "id": 4,
         "skills": "Git",
-        "img": "./images/git.jpg"
+        "img": "/images/git.jpg"
       },
       {
         "id": 5,
         "skills": "GitHub",
-        "img": "./images/github.jpg"
+        "img": "/images/github.jpg"
       },
       {
         "id": 6,
         "skills": "User Experience Design",
-        "img": "./images/User-Experience-Design.jpg"
+        "img": "/images/User-Experience-Design.jpg"
       },
       {
         "id": 7,
         "skills": "Bootstrap",
-        "img": "./images/bootstrap.jpg"
+        "img": "/images/bootstrap.jpg"
       },
       {
         "id": 8,
         "skills": "The DOM (Document Object Model)",
-        "img": "./images/DOM.jpg"
+        "img": "/images/DOM.jpg"
       },
       {
         "id": 9,
         "skills": "Application Programming Interfaces (APIs)",
-        "img": "./images/API.jpg"
+        "img": "/images/API.jpg"
       },
       {
         "id": 10,
         "skills": "JQuery",
-        "img": "./images/JQuery.jpg"
+        "img": "/images/JQuery.jpg"
       },
       {
         "id": 11,
         "skills": "JSON",
-        "img": "./images/JSON.jpg"
+        "img": "/images/JSON.jpg"
       },
       {
         "id": 12,
         "skills": "AJAX",
-        "img": "./images/AJAX.jpg"
+        "img": "/images/AJAX.jpg"
       },
       {
         "id": 13,
         "skills": "Node",
-        "img": "./images/Node.jpg"
+        "img": "/images/Node.jpg"
       },
        {
         "id": 14,
         "skills": "React",
-        "img": "./images/React.jpg"
+        "img": "/images/React.jpg"
     }
   ]
 
