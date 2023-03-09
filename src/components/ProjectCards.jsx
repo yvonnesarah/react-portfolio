@@ -1,5 +1,6 @@
 import styles from "../styles/ProjectCards.module.css";
 
+
 export default function ProjectCard(props) {
   return (
     <div className={`card ${styles.cardCustom}`} style={{ width: "40rem" }}>
