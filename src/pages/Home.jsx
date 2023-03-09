@@ -18,7 +18,7 @@ export default function Home() {
         <h1 className="text-center my-5">About Me</h1>
         <center><img
             className={face.face}
-            src="../images/yvonne's picture.jpg"
+            src={require('../images/yvonne-picture.jpg')}
             width={200}
             height={200}
             alt="Yvonne Avatar"
