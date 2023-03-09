@@ -5,7 +5,7 @@ export default function ProjectCard(props) {
   return (
     <div className={`card ${styles.cardCustom}`} style={{ width: "40rem" }}>
       <img
-        src={props.img}
+      src={props.img}
         className="card-img-top"
         height="140"
         alt={props.name}
