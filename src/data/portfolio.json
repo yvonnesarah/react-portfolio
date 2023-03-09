@@ -42,7 +42,7 @@
     "descr": "A timer-based quiz application having multiple choice JavaScript questions that stores high scores of multiple users using localstorage. Answering incorrectly results in penality of time.",
     "repo": "https://github.com/yvonnesarah/JavaScript-Quiz",
     "deployed": "https://yvonnesarah.github.io/JavaScript-Quiz/",
-    "img": "/images/code-refactor.jpg"
+    "img": "/images/javascript-quiz.jpg"
   },
   {
     "id": 6,
