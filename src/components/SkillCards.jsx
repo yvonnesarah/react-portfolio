@@ -4,7 +4,7 @@ export default function SkillCard(props) {
   return (
     <div className={`card ${styles.cardCustom}`} style={{ width: "15rem" }}>
       <img
-        src={props.img}
+        src={process.env.PUBLIC_URL +props.img}
         className="card-img-top"
         height="80"
         alt={props.img}
