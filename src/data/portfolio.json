@@ -6,7 +6,7 @@
     "descr": "This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.",
     "repo": "https://github.com/yvonnesarah/prework-study-guide",
     "deployed": "https://yvonnesarah.github.io/prework-study-guide/",
-    "img": "./images/prework-study-guide-project.jpg"
+    "img": "images/prework-study-guide.jpg"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "descr": "To improve accessibility for Horiseon’s website by refactoring the existing code. The main ideas were to review, revise & consolidate the existing CSS code, improve semantic efficiency & improve search engine optimisation.",
     "repo": "https://github.com/yvonnesarah/Code-Refactor",
     "deployed": "https://yvonnesarah.github.io/Code-Refactor/",
-    "img": "./images/code-refactor-project.jpg"
+    "img": "images/code-refactor.jpg"
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "descr": "The Console Finance Tool presents analysis of the previously given financial records of a company. Available dataset was composed of Date and Profit/Losses data. The tool is enable to show the total months included in dataset, the net total amount of Profit/Losses over the entire period, the average of the changes in Profit/Losses over the entire period. It also defines the greatest increase in profits and the greatest decrease in losses over the entire period.",
     "repo": "https://github.com/yvonnesarah/Console-Finances",
     "deployed": "https://yvonnesarah.github.io/Console-Finances/",
-    "img": "./images/console-finances-project.jpg"
+    "img": "images/console-finances.jpg"
   },
   {
     "id": 4,
@@ -33,7 +33,7 @@
     "descr": "Create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes. The password can include special characters.",
     "repo": "https://github.com/yvonnesarah/Password-Generator",
     "deployed": "https://yvonnesarah.github.io/Password-Generator/",
-    "img": "./images/password-generator-project.jpg"
+    "img": "images/password-generator.jpg"
   },
   {
     "id": 5,
@@ -42,7 +42,7 @@
     "descr": "A timer-based quiz application having multiple choice JavaScript questions that stores high scores of multiple users using localstorage. Answering incorrectly results in penality of time.",
     "repo": "https://github.com/yvonnesarah/JavaScript-Quiz",
     "deployed": "https://yvonnesarah.github.io/JavaScript-Quiz/",
-    "img": "./images/code-refactor-project.jpg"
+    "img": "images/code-refactor.jpg"
   },
   {
     "id": 6,
@@ -51,7 +51,7 @@
     "descr": "A simple calendar application that allows a user to save events for each hour between 9am-5pm. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery. This app loops through the hours for a specific date, which is the current day that the user opens the app, uses moment.js to handle date. This application also allows the user to enter and save text into any description field, the data will be saved to the localStorage of the browser. The past hours are highlighted #75FF33, the present hour #ff6961, and future hours #FFBD33.",
     "repo": "https://github.com/yvonnesarah/Daily-Planner-App",
     "deployed": "https://yvonnesarah.github.io/Daily-Planner-App/",
-    "img": "./images/daily-planner-app-project.jpg"
+    "img": "images/daily-planner-app.jpg"
   },
   {
     "id": 7,
@@ -60,7 +60,7 @@
     "descr": "This is a weather dashboard with form inputs that will run in the browser and feature dynamically updated HTML and CSS. It allows the user to search to view weather outlook for multiple cities so travelers can plan a trip accordingly. OpenWeather API is used to retrieve weather data for cities. And localStorage is used to store persistent data.",
     "repo": "https://github.com/yvonnesarah/Weather-Dashboard",
     "deployed": "https://yvonnesarah.github.io/Weather-Dashboard/",
-    "img": "./images/weather-dashboard-project.jpg"
+    "img": "images/weather-dashboard.jpg"
   },
   {
     "id": 8,
@@ -69,6 +69,6 @@
     "descr": "Quiz Maker is a multi-language quiz question generator. It allows the user to generate quiz questions on any selected topic and returns the response in any language of their choice. The user is also able to specify the number of questions to be generated.",
     "repo": "https://github.com/yvonnesarah/Quiz-maker",
     "deployed": "https://yvonnesarah.github.io/Quiz-maker/",
-    "img": "./images/quiz-maker-project.jpg"
+    "img": "images/quiz-maker.jpg"
   }
 ]
